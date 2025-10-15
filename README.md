@@ -6,7 +6,7 @@ This milestone marks the completion of Week 1 in my **Structured Extraction and 
 
 ## 📚 Dataset
 
-- **Dataset**: RVL-CDIP (Ryerson Vision Lab Complex Document Information Processing)
+- **Dataset**: RVL-CDIP (Ryerson Vision Lab Complex Document Information Processing)[https://www.kaggle.com/datasets/pdavpoojan/the-rvlcdip-dataset-test]
 - **Categories**: 16 document types (advertisement, budget, email, file_folder, form, handwritten, invoice, letter, memo, news_article, presentation, questionnaire, resume, scientific_publication, scientific_report, specification)
 - **Sample Size**: ~2,300(approx) TIFF images per category
 - **Storage**: Google Drive (`MyDrive/passionproject/resources/RVL_CDIP/`)
